@@ -1,0 +1,4 @@
+You: This house is unlocked.
+You: There's no harm in entering an unlocked house in an abandoned village right?
+You: Right?
+You enter anyway.

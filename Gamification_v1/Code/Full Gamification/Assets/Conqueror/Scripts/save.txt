@@ -1,0 +1,10 @@
+Player
+hp 30
+damage 4.1
+skill 2
+equip 0
+gun1 3 150 0
+gun2 2 150 1
+gun3 1 200 2
+enemieskilled 314
+enemieskilled 24

@@ -1,0 +1,20 @@
+You find a toppled over bag of seeds.
+You: So that's why there were plants growing everywhere.
+You: Are these even edible? Maybe they bear fruit.
+You pick up the bag and dust it off and notice a piece of paper that was underneath the bag.
+You: What's this?
+You pick up the paper.
+You: Pretty dirty. Still readable though.
+You: The top reads 'For Your Eyes Only!'
+You: That's an odd title.
+You: "Wait! I can read this?!"
+You: The paper is written in my language. You quickly begin reading.
+'If you have found this, then you must be finally up. It is I, the Arch Wizard. You know me but you may not remember.'
+'If you wish to learn the secrets of this world and yourself, continue. Be warned, there is a reason you do not remember.'
+'It was you who did not wish to know. But if you ever do wish, continue on. You will find your answer in your search.'
+The page ends.
+You: I know the Arch Wizard? There is a secret to this world? I erased my own memories?
+You: This is a lot to take in. Should I ask the villagers?
+You: The first line says it's only for my eyes. But that doesn't mean I can't tell them right?
+You gain a feeling of excitement and yet fear.
+You: I'll think over this later. I have to get out. The vines look like they're creeping towards me.

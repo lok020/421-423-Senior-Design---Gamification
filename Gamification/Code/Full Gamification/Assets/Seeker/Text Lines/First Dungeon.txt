@@ -1,0 +1,81 @@
+﻿You: I can't leave yet. I need to look around.
+
+You: No monsters sighted so far. That's good. I should still be cautious though.
+
+First trap hit
+You: Whoa! That was way too close!
+You: A pit fall? Who builds a pit fall underground??
+You: It's not too deep of a pit. I think I can fill enough of it with dirt around to make it safe.
+*
+2
+You: There we go. I gotta be careful from now on. Who knows what other traps there might be around here.
+
+Notice pressure plate
+You: Ha! A pressure plate! Won't get me this time!
+You stand back and use the base of the staff to activate the trap
+*
+1
+A pillar crashes down from the ceiling and destroys the bottom of the staff. It rises back up as quickly as it fell down.
+You: WHOA WHOA WHOA! I could have been flattened there!
+You: Crap. The bottom of the staff broke. I guess I have a wand now. The light still works though. 
+You: I can't trigger any more traps like I just did though. I have to be extremely careful and dodge the traps.
+You: I wonder if I can disable this trap somehow... I'll just avoid it for now. I don't want to trigger it again.
+Move player forward. Don't allow player to go back.
+
+You: Can't do anything about it right now. Gotta keep moving forward.
+
+Player gets to people.
+You: Whoa.
+You: I"ve been saying whoa a lot…
+
+Player gets closer
+You: Whoa. What are these? So many crystals! Am I rich?? Well I couldn't buy anything with these without a store though.
+You: Wait. There's a dark shadow inside. Hmm. My light doesn't show much detail but… It looks like a person figure inside. All of these seem to have a shadow in them now that I look closely!
+You: Oh these must be the villagers! I have to free them! Let's try touching the crystals.
+*
+2
+You: Nope. Hmm…
+You: Ahh let's try the light crystal!
+*
+3
+You: What the. They're stick figures… Oh god have I summoned demons??
+???: фhiK@Щ@gfft@vbДЋfwДЋK@дbhf@qЋ@ГibГ@ИwДo
+You: They're looking at me… Should I run? No if I run I might trigger a trap I may have missed.
+You: I guess I'll try to communicate.
+You: "Hello! I am friend. Not foe."
+???: %шwД}f@vwГ@Гif@ubhfK@цiw@bf@ИwДo@Щ@Жwvef@qg@ГifИ@ДvefЋГbve@ДЋK
+You: "Uhh. I don't understand. Do you know what I am saying? I have come from far away."
+You: Maybe they are the villagers.
+???: %Щ@hДfЋЋ@vwГK@ТДГ@Гibvs@ИwД@gw@fЋdДqvh@ДЋK
+One of the beings points to light crystal.
+You: They're pointing at this jewel.
+You: "Oh this? Sorry I borrowed it from a house to get in here."
+One of the beings reaches out their hands.
+You: Oh no they're gonna kill me!
+It shakes your hand.
+You: Ahhh they're gonna tear me apart limb to limb!
+You: Wait… A handshake?
+???: %цf@vffe@Гw@gqve@Гif@fЗqГK
+It lets go and points to exit.
+You: "Uhh. Yeah I came from there. But there are traps."
+They look confused.
+You: I guess they don't understand me as well. I guess I'll mime what I mean.
+Gestures a plate on the ground and something falling from the ceiling.
+The beings all make a sound in unison.
+You: Do they understand?
+One of them points to the ground and scratches head
+You: Ground lice? No. Oh they might want to know where the trap is!
+You gesture villagers to follow.
+
+Go to pillar trap
+You: The way they walk is really...scary.
+You point to the pressure plate and then to the ceiling
+You: There it is.
+The villagers talk between each other. One villager walks up to the trap.
+It messes around with the pressure plate.
+*
+3
+The villager removes the plate and tosses it aside.
+You: What.
+The villagers gestures to continue.
+You: Alrighty then. I guess we're good to go!

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.0.3" orientation="orthogonal" renderorder="left-down" width="10" height="10" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" source="../../../../../../../Tilesets/Scavengers.tsx"/>
+ <tileset firstgid="57" source="../../../../../../../Tilesets/Traps.tsx"/>
+ <tileset firstgid="60" source="../../../../../../../Tilesets/Wall Updates.tsx"/>
+ <tileset firstgid="85" source="RogueLikeSheet.tsx"/>
+ <layer name="Tile Layer 1" width="10" height="10">
+  <data encoding="csv">
+57,58,59,0,0,0,1,2,3,4,
+60,61,62,63,0,0,9,10,11,12,
+65,66,67,68,0,0,17,18,19,20,
+70,71,72,73,0,0,0,0,0,0,
+75,76,77,78,0,85,0,0,0,0,
+80,81,210,210,211,0,0,0,0,0,
+210,211,270,270,271,0,0,463,0,0,
+270,271,0,0,0,210,211,0,210,211,
+0,0,0,0,0,270,271,0,270,271,
+0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+</map>

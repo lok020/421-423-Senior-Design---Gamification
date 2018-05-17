@@ -1,0 +1,73 @@
+You: *Yawn*
+You: I guess yesterday wasn't some elaborate dream.
+You: Ugh. I forgot to eat yesterday.
+You: What time is it? I wonder if these people have a concept of time.
+You: I guess I'll go to the market to see if anyone else is awake.
+
+As you enter the market, you see the chef outside their shop.
+You: "Good morning uhh... chef."
+Village Chef: "Hello. You're up pretty early."
+You: "Am I? What time is it?"
+VIllage Chef: "Well of course it's morning."
+You: I don't know what I expected.
+You: *Stomach growls*
+Village Chef: "Ahh. Are you hungry?"
+You: "Yeah. I haven't eaten all day yesterday."
+Village Chef: "That's unfortunate. Another unfortunate event is that all the food I have here have spoiled. Guess we were gone longer than we initially thought."
+You: "Oh no! Is there a place we can pick food from? Like a farm?"
+Village Chef: "The farmlands were mostly destroyed during the invasion."
+You: "So what are we going to do for food?"
+Village Chef: "This problem was actually taken care of due to the arch mage's great foresight."
+Village Chef: "The arch mage placed a system in the dungeons which will create chests with necessities such as ores and food."
+You: "Wow. That's very convenient and inconvenient at the same time."
+You: "But how come I didn't see any chests in the dungeon I found you guys?"
+Village Chef: "It seems that the spell casted upon the dungeons malfunctioned in parts."
+You: "Oh so spells can glitch as well?"
+Village Chef: "I'm not sure I understand your words. But if you mean that spells are able to have errors in them, then yes."
+Village Chef: "It's not uncommon for large spells to have multiple problems occur. It's amazing that the arch mage was able to cast such a grand spell with such precision."
+Village Chef: "Anyway. If you want to get food, you'll have to go into the dungeons again to search for some."
+You: "But I've already searched the dungeon. Are there more nearby?"
+Village Chef: "No. There are none others nearby. But the dungeon by here is special. It connects to the dungeons at random upon enetering."
+Village Chef: "It was also by no accident you found us first. The arch wizard prioritized our release before the others due to our specialties."
+Village Chef: "We are able to sustain the rest of the villagers upon their retrieval."
+You: "I see. Also it seemed that one of you were very adept at disarming the traps in the dungeons."
+Village Chef: "Yes. The carpenter has a very strong knowledge of the traps and how they work due to his life long skill of construction."
+You: "I'd think that a hunter would be better off with the traps."
+Village Chef: "The hunter would also be very adept with traps. However, with the lack of animals, the arch mage decided that the hunter would not be of much use in our revival."
+You: "I see. Well can I bring the hunter with me to disarm the traps then?"
+Village Chef: "Well the problem is that the wizard's gem only grants access to the wielder."
+You: "Wow. How very inconvenient. Well can the carpenter go instead then?"
+Village Chef: "Well. The issue is that though we are very knowledgable, we have a lack in stamina. The carpenter disarming the trap last night wore him down quite a lot."
+Village Chef: "We usually have our animals do a lot of the work for us. But no that we have none, we're going to have a hard time surviving."
+You: This is a joke right? I'm being messed with right? I mean... I guess I can see it with thier lanky body structure. But still...
+You: "Alright. I guess I'll go then or else we'll all starve to death."
+Village Chef: "Actually, you should go to the carpentry building over their. The carpenter can teach you how to disable the traps."
+You: "That's a good idea. I'll go visit them then."
+
+You knock on the door.
+Village Carpenter: "Who is it?"
+You: "It's me. The uh... rescuer."
+You: That's a lot more embarassing to say out loud now that I did it...
+Village Carpenter: "Ahh. Come in."
+
+As you enter the building you set off a trap.
+You: "Whoa!!"
+You barely dodged the trap that would've impaled your foot.
+Village Carpenter: "Oh sorry. I was still setting up and forgot that was there.
+You: I'd think that most people would be more careful about stuff like this...
+You: "What are you doing with these traps all around?"
+Village Carpenter: "Well I expected that you'd come see me to learn how to disable traps."
+Village Carpenter: "So of course, what better way than to create some for you to test "
+You: "There's so many..."
+You: What happened to that low stamina stuff...
+Village Carpenter: "Well of course. We have to have varying difficulties."
+You: "The traps have varying difficulties?"
+Village Carpenter: "Yes. You see, the dungeons are able to adjust their security depending on what the intruder is looking for."
+Village Carpenter: "Low level security dungeons will mainly procure common foods that can easily be grown but provide very little nutrients and common ores."
+Village Carpenter: "Higher level secruity dungeons will procure rare ores and even gems as well as villagers."
+You: "The dungeon I found you people in didn't seem very secure though."
+Village Carpenter: "That was at the request of the leader."
+Village Carpenter: "Our leader didn't want anyone to have trouble freeing us but the arch mage insisted on some security."
+Village Carpenter: "The rest of us didn't mind having lower security if it meant causing less trouble for those who are coming here to help."
+Village Carpenter: "Anyway that's enough chit chat. Let's start training."
+You: "Alright. Let's do this!"
