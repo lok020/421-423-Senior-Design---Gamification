@@ -1,2 +1,2 @@
 # Senior Design
-All the projects in the pass 4 years 
+All the updates for the senior design projects with the team.
