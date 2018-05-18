@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Games>
+  <Seeker>
+    <Inventory>
+      <Item id="1111" />
+    </Inventory>
+    <Storage>
+      <Item id="6969" />
+    </Storage>
+    <Progress value="25" />
+    <Stats>
+      <Hp value="10" />
+      <Dex value="20" />
+      <Stam value="30" />
+      <Ins value="40" />
+    </Stats>
+    <Reputation value="150" />
+  </Seeker>
+  <Conqueror>
+    <Stats></Stats>
+    <Equipped></Equipped>
+    <Upgrades></Upgrades>
+  </Conqueror>
+  <Mastermind></Mastermind>
+  <Incremental>
+    <Stamina value="" />
+    <Coins>
+      <Passive value="" />
+      <Active value="" />
+    </Coins>
+    <Multiplier>
+      <Passive value="" />
+      <Active value="" />
+    </Multiplier>
+    <Level></Level>
+    <Bars>
+      <XP value="" />
+      <Progress value="" />
+    </Bars>
+  </Incremental>
+</Games>

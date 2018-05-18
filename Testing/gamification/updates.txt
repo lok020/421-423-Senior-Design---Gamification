@@ -1,0 +1,4 @@
+Done
++incremental local saving and loading done
++sudoku background color changed
++incremental design changed

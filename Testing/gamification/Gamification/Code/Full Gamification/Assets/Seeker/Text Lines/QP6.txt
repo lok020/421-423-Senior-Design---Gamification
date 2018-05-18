@@ -1,0 +1,23 @@
+Leader: "Have you found the seeds yet?"
+You: "Yeah. I hve them here. Only a bag though."
+Leader: "That's enough. Since these seeds can grow into multiple crops depending on how we grow them."
+Leader: "Did you find anything else?"
+You ponder over if you should tell the leader about the paper you found.
+But you decide not to mention it.
+You: "No. There were lots of dangerous vines in there so I left as quickly as I could."
+Leader: "That's a shame. I'll be sure to reward you with reputation for acquiring these seeds."
+You: "Thanks."
+Leader: "The next thing we need is our work animals. They'll help us grow these crops more efficiently."
+Leader: "Take this key to the dungeon and it should unlock the animals section."
+You: "How many keys are there?"
+Leader: "We're not sure. We were only given these two."
+Leader: "Anyway, we're not sure how the animals will react to you. But if you give them their favorite food, they'll follow you."
+You: "What's their favorite food?"
+Leader: "A fruit that grows from the vines you encountered earlier."
+Leader: "Here are a pair of legwear for you. They're made out of the skin of our work animals. They're thick and can take a good beating."
+You: Wish I had these earlier.
+Leader: "You're going to have to check the vines that have grown there to find the fruits. The ones that bear fruit will have emerged from the ground."
+Leader: "You'll also need to gather them all before leaving. They are very social animals and will not stray too far without everyone."
+Leader: "It should be easy to find them though. They'll all be huddled in a group."
+You: "Alright. I'll head there next."
+Leader: "Good luck."
