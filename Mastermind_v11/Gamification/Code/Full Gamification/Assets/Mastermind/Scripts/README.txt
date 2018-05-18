@@ -1,0 +1,2 @@
+Some of the scripts are outdated and not been used. Feel free to look into them to understand how they work to fit your implementation for the future update. 
+The three main control for the sudoku is inside the test folder.

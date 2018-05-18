@@ -1,0 +1,774 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     1118 MB
+    Driver:   21.20.16.4550
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+Platform assembly: C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Managed\websocket-sharp.dll (this message is harmless)
+Loading C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Managed\websocket-sharp.dll into Unity Child Domain
+Platform assembly: C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Managed\Newtonsoft.Json.dll (this message is harmless)
+Loading C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Managed\Newtonsoft.Json.dll into Unity Child Domain
+- Completed reload, in  0.032 seconds
+Platform assembly: C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 3286x1080 at -1366,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.400850 ms
+In awake.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Initializing Stuff Here.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Seeker Saving
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Saving quest progress: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+In dungeon: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Seeker Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Seeker Loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Quest Progress: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Seeker Loaded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.162981 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1620.
+Total: 1.423784 ms (FindLiveObjects: 0.116479 ms CreateObjectMapping: 0.062719 ms MarkObjects: 1.236905 ms  DeleteObjects: 0.006826 ms)
+
+none
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+mastermind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.048529 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1650.
+Total: 1.383678 ms (FindLiveObjects: 0.123733 ms CreateObjectMapping: 0.053333 ms MarkObjects: 1.187411 ms  DeleteObjects: 0.017919 ms)
+
+Platform assembly: C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Managed\System.Xml.dll (this message is harmless)
+IsolatedStorageException: Could not find a part of the path "C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Mastermind\Scripts\Assets\Resources\levelsEasyXMLprefab.xml".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlUrlResolver.GetEntity (System.Uri absoluteUri, System.String role, System.Type ofObjectToReturn) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.GetStreamFromUrl (System.String url, System.String& absoluteUriString) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlDocument.Load (System.String filename) [0x00000] in <filename unknown>:0 
+  at ReadXML.parseXmlFile (System.String path, System.String nodepath) [0x00000] in <filename unknown>:0 
+  at fixedSudoku..cctor () [0x00000] in <filename unknown>:0 
+Rethrow as TypeInitializationException: An exception was thrown by the type initializer for fixedSudoku
+
+ 
+(Filename:  Line: -1)
+
+The referenced script on this Behaviour (Game Object 'updateScript') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.651197 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1611.
+Total: 2.817703 ms (FindLiveObjects: 0.140373 ms CreateObjectMapping: 0.066986 ms MarkObjects: 1.384531 ms  DeleteObjects: 1.225385 ms)
+
+IsolatedStorageException: Could not find a part of the path "C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Mastermind\Scripts\Assets\Resources\levelsEasyXMLprefab.xml".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlUrlResolver.GetEntity (System.Uri absoluteUri, System.String role, System.Type ofObjectToReturn) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.GetStreamFromUrl (System.String url, System.String& absoluteUriString) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlDocument.Load (System.String filename) [0x00000] in <filename unknown>:0 
+  at ReadXML.parseXmlFile (System.String path, System.String nodepath) [0x00000] in <filename unknown>:0 
+  at fixedSudoku..cctor () [0x00000] in <filename unknown>:0 
+Rethrow as TypeInitializationException: An exception was thrown by the type initializer for fixedSudoku
+
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at update.updatePlayerInfo () [0x00000] in <filename unknown>:0 
+  at update.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.742504 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2948.
+Total: 2.756263 ms (FindLiveObjects: 0.247039 ms CreateObjectMapping: 0.084906 ms MarkObjects: 2.394023 ms  DeleteObjects: 0.028586 ms)
+
+IsolatedStorageException: Could not find a part of the path "C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Mastermind\Scripts\Assets\Resources\levelsEasyXMLprefab.xml".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlUrlResolver.GetEntity (System.Uri absoluteUri, System.String role, System.Type ofObjectToReturn) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.GetStreamFromUrl (System.String url, System.String& absoluteUriString) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlDocument.Load (System.String filename) [0x00000] in <filename unknown>:0 
+  at ReadXML.parseXmlFile (System.String path, System.String nodepath) [0x00000] in <filename unknown>:0 
+  at fixedSudoku..cctor () [0x00000] in <filename unknown>:0 
+Rethrow as TypeInitializationException: An exception was thrown by the type initializer for fixedSudoku
+
+ 
+(Filename:  Line: -1)
+
+IsolatedStorageException: Could not find a part of the path "C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Mastermind\Scripts\Assets\Resources\levelsEasyXMLprefab.xml".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlUrlResolver.GetEntity (System.Uri absoluteUri, System.String role, System.Type ofObjectToReturn) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.GetStreamFromUrl (System.String url, System.String& absoluteUriString) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlDocument.Load (System.String filename) [0x00000] in <filename unknown>:0 
+  at ReadXML.parseXmlFile (System.String path, System.String nodepath) [0x00000] in <filename unknown>:0 
+  at fixedSudoku..cctor () [0x00000] in <filename unknown>:0 
+Rethrow as TypeInitializationException: An exception was thrown by the type initializer for fixedSudoku
+
+ 
+(Filename:  Line: -1)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.665061 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1650.
+Total: 1.575677 ms (FindLiveObjects: 0.167679 ms CreateObjectMapping: 0.049493 ms MarkObjects: 1.335038 ms  DeleteObjects: 0.022186 ms)
+
+IsolatedStorageException: Could not find a part of the path "C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Mastermind\Scripts\Assets\Resources\levelsEasyXMLprefab.xml".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlUrlResolver.GetEntity (System.Uri absoluteUri, System.String role, System.Type ofObjectToReturn) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.GetStreamFromUrl (System.String url, System.String& absoluteUriString) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlDocument.Load (System.String filename) [0x00000] in <filename unknown>:0 
+  at ReadXML.parseXmlFile (System.String path, System.String nodepath) [0x00000] in <filename unknown>:0 
+  at fixedSudoku..cctor () [0x00000] in <filename unknown>:0 
+Rethrow as TypeInitializationException: An exception was thrown by the type initializer for fixedSudoku
+
+ 
+(Filename:  Line: -1)
+
+The referenced script on this Behaviour (Game Object 'updateScript') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.501438 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1611.
+Total: 2.573650 ms (FindLiveObjects: 0.095573 ms CreateObjectMapping: 0.067413 ms MarkObjects: 1.183998 ms  DeleteObjects: 1.226238 ms)
+
+IsolatedStorageException: Could not find a part of the path "C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Mastermind\Scripts\Assets\Resources\levelsEasyXMLprefab.xml".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlUrlResolver.GetEntity (System.Uri absoluteUri, System.String role, System.Type ofObjectToReturn) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.GetStreamFromUrl (System.String url, System.String& absoluteUriString) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlDocument.Load (System.String filename) [0x00000] in <filename unknown>:0 
+  at ReadXML.parseXmlFile (System.String path, System.String nodepath) [0x00000] in <filename unknown>:0 
+  at fixedSudoku..cctor () [0x00000] in <filename unknown>:0 
+Rethrow as TypeInitializationException: An exception was thrown by the type initializer for fixedSudoku
+
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at update.updatePlayerInfo () [0x00000] in <filename unknown>:0 
+  at update.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.024104 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2948.
+Total: 2.629116 ms (FindLiveObjects: 0.173226 ms CreateObjectMapping: 0.083626 ms MarkObjects: 2.350076 ms  DeleteObjects: 0.020906 ms)
+
+IsolatedStorageException: Could not find a part of the path "C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Mastermind\Scripts\Assets\Resources\levelsEasyXMLprefab.xml".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlUrlResolver.GetEntity (System.Uri absoluteUri, System.String role, System.Type ofObjectToReturn) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.GetStreamFromUrl (System.String url, System.String& absoluteUriString) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlDocument.Load (System.String filename) [0x00000] in <filename unknown>:0 
+  at ReadXML.parseXmlFile (System.String path, System.String nodepath) [0x00000] in <filename unknown>:0 
+  at fixedSudoku..cctor () [0x00000] in <filename unknown>:0 
+Rethrow as TypeInitializationException: An exception was thrown by the type initializer for fixedSudoku
+
+ 
+(Filename:  Line: -1)
+
+IsolatedStorageException: Could not find a part of the path "C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Mastermind\Scripts\Assets\Resources\levelsEasyXMLprefab.xml".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlUrlResolver.GetEntity (System.Uri absoluteUri, System.String role, System.Type ofObjectToReturn) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.GetStreamFromUrl (System.String url, System.String& absoluteUriString) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlDocument.Load (System.String filename) [0x00000] in <filename unknown>:0 
+  at ReadXML.parseXmlFile (System.String path, System.String nodepath) [0x00000] in <filename unknown>:0 
+  at fixedSudoku..cctor () [0x00000] in <filename unknown>:0 
+Rethrow as TypeInitializationException: An exception was thrown by the type initializer for fixedSudoku
+
+ 
+(Filename:  Line: -1)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.627515 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1650.
+Total: 1.492904 ms (FindLiveObjects: 0.211626 ms CreateObjectMapping: 0.069546 ms MarkObjects: 1.186985 ms  DeleteObjects: 0.023893 ms)
+
+IsolatedStorageException: Could not find a part of the path "C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Mastermind\Scripts\Assets\Resources\levelsEasyXMLprefab.xml".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlUrlResolver.GetEntity (System.Uri absoluteUri, System.String role, System.Type ofObjectToReturn) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.GetStreamFromUrl (System.String url, System.String& absoluteUriString) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlDocument.Load (System.String filename) [0x00000] in <filename unknown>:0 
+  at ReadXML.parseXmlFile (System.String path, System.String nodepath) [0x00000] in <filename unknown>:0 
+  at fixedSudoku..cctor () [0x00000] in <filename unknown>:0 
+Rethrow as TypeInitializationException: An exception was thrown by the type initializer for fixedSudoku
+
+ 
+(Filename:  Line: -1)
+
+The referenced script on this Behaviour (Game Object 'updateScript') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.412264 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1611.
+Total: 2.563410 ms (FindLiveObjects: 0.117759 ms CreateObjectMapping: 0.051199 ms MarkObjects: 1.163518 ms  DeleteObjects: 1.230078 ms)
+
+IsolatedStorageException: Could not find a part of the path "C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Mastermind\Scripts\Assets\Resources\levelsEasyXMLprefab.xml".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlUrlResolver.GetEntity (System.Uri absoluteUri, System.String role, System.Type ofObjectToReturn) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.GetStreamFromUrl (System.String url, System.String& absoluteUriString) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlDocument.Load (System.String filename) [0x00000] in <filename unknown>:0 
+  at ReadXML.parseXmlFile (System.String path, System.String nodepath) [0x00000] in <filename unknown>:0 
+  at fixedSudoku..cctor () [0x00000] in <filename unknown>:0 
+Rethrow as TypeInitializationException: An exception was thrown by the type initializer for fixedSudoku
+
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at update.updatePlayerInfo () [0x00000] in <filename unknown>:0 
+  at update.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.745491 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2948.
+Total: 2.741756 ms (FindLiveObjects: 0.245333 ms CreateObjectMapping: 0.081493 ms MarkObjects: 2.392743 ms  DeleteObjects: 0.020906 ms)
+
+IsolatedStorageException: Could not find a part of the path "C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Mastermind\Scripts\Assets\Resources\levelsEasyXMLprefab.xml".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlUrlResolver.GetEntity (System.Uri absoluteUri, System.String role, System.Type ofObjectToReturn) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.GetStreamFromUrl (System.String url, System.String& absoluteUriString) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlDocument.Load (System.String filename) [0x00000] in <filename unknown>:0 
+  at ReadXML.parseXmlFile (System.String path, System.String nodepath) [0x00000] in <filename unknown>:0 
+  at fixedSudoku..cctor () [0x00000] in <filename unknown>:0 
+Rethrow as TypeInitializationException: An exception was thrown by the type initializer for fixedSudoku
+
+ 
+(Filename:  Line: -1)
+
+IsolatedStorageException: Could not find a part of the path "C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Mastermind\Scripts\Assets\Resources\levelsEasyXMLprefab.xml".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlUrlResolver.GetEntity (System.Uri absoluteUri, System.String role, System.Type ofObjectToReturn) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.GetStreamFromUrl (System.String url, System.String& absoluteUriString) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlDocument.Load (System.String filename) [0x00000] in <filename unknown>:0 
+  at ReadXML.parseXmlFile (System.String path, System.String nodepath) [0x00000] in <filename unknown>:0 
+  at fixedSudoku..cctor () [0x00000] in <filename unknown>:0 
+Rethrow as TypeInitializationException: An exception was thrown by the type initializer for fixedSudoku
+
+ 
+(Filename:  Line: -1)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.546875 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1650.
+Total: 1.427198 ms (FindLiveObjects: 0.194133 ms CreateObjectMapping: 0.066133 ms MarkObjects: 1.144318 ms  DeleteObjects: 0.021759 ms)
+
+IsolatedStorageException: Could not find a part of the path "C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Mastermind\Scripts\Assets\Resources\levelsEasyXMLprefab.xml".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlUrlResolver.GetEntity (System.Uri absoluteUri, System.String role, System.Type ofObjectToReturn) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.GetStreamFromUrl (System.String url, System.String& absoluteUriString) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlDocument.Load (System.String filename) [0x00000] in <filename unknown>:0 
+  at ReadXML.parseXmlFile (System.String path, System.String nodepath) [0x00000] in <filename unknown>:0 
+  at fixedSudoku..cctor () [0x00000] in <filename unknown>:0 
+Rethrow as TypeInitializationException: An exception was thrown by the type initializer for fixedSudoku
+
+ 
+(Filename:  Line: -1)
+
+The referenced script on this Behaviour (Game Object 'updateScript') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.470291 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1611.
+Total: 2.682023 ms (FindLiveObjects: 0.138666 ms CreateObjectMapping: 0.069973 ms MarkObjects: 1.238185 ms  DeleteObjects: 1.233491 ms)
+
+IsolatedStorageException: Could not find a part of the path "C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Mastermind\Scripts\Assets\Resources\levelsEasyXMLprefab.xml".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlUrlResolver.GetEntity (System.Uri absoluteUri, System.String role, System.Type ofObjectToReturn) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.GetStreamFromUrl (System.String url, System.String& absoluteUriString) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlDocument.Load (System.String filename) [0x00000] in <filename unknown>:0 
+  at ReadXML.parseXmlFile (System.String path, System.String nodepath) [0x00000] in <filename unknown>:0 
+  at fixedSudoku..cctor () [0x00000] in <filename unknown>:0 
+Rethrow as TypeInitializationException: An exception was thrown by the type initializer for fixedSudoku
+
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at update.updatePlayerInfo () [0x00000] in <filename unknown>:0 
+  at update.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.872637 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2948.
+Total: 2.825809 ms (FindLiveObjects: 0.232533 ms CreateObjectMapping: 0.080213 ms MarkObjects: 2.475090 ms  DeleteObjects: 0.036693 ms)
+
+IsolatedStorageException: Could not find a part of the path "C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Mastermind\Scripts\Assets\Resources\levelsEasyXMLprefab.xml".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlUrlResolver.GetEntity (System.Uri absoluteUri, System.String role, System.Type ofObjectToReturn) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.GetStreamFromUrl (System.String url, System.String& absoluteUriString) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlDocument.Load (System.String filename) [0x00000] in <filename unknown>:0 
+  at ReadXML.parseXmlFile (System.String path, System.String nodepath) [0x00000] in <filename unknown>:0 
+  at fixedSudoku..cctor () [0x00000] in <filename unknown>:0 
+Rethrow as TypeInitializationException: An exception was thrown by the type initializer for fixedSudoku
+
+ 
+(Filename:  Line: -1)
+
+IsolatedStorageException: Could not find a part of the path "C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Mastermind\Scripts\Assets\Resources\levelsEasyXMLprefab.xml".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlUrlResolver.GetEntity (System.Uri absoluteUri, System.String role, System.Type ofObjectToReturn) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.GetStreamFromUrl (System.String url, System.String& absoluteUriString) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlDocument.Load (System.String filename) [0x00000] in <filename unknown>:0 
+  at ReadXML.parseXmlFile (System.String path, System.String nodepath) [0x00000] in <filename unknown>:0 
+  at fixedSudoku..cctor () [0x00000] in <filename unknown>:0 
+Rethrow as TypeInitializationException: An exception was thrown by the type initializer for fixedSudoku
+
+ 
+(Filename:  Line: -1)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.823355 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1650.
+Total: 1.619624 ms (FindLiveObjects: 0.250879 ms CreateObjectMapping: 0.117333 ms MarkObjects: 1.204478 ms  DeleteObjects: 0.046079 ms)
+
+IsolatedStorageException: Could not find a part of the path "C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Mastermind\Scripts\Assets\Resources\levelsEasyXMLprefab.xml".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlUrlResolver.GetEntity (System.Uri absoluteUri, System.String role, System.Type ofObjectToReturn) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.GetStreamFromUrl (System.String url, System.String& absoluteUriString) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlDocument.Load (System.String filename) [0x00000] in <filename unknown>:0 
+  at ReadXML.parseXmlFile (System.String path, System.String nodepath) [0x00000] in <filename unknown>:0 
+  at fixedSudoku..cctor () [0x00000] in <filename unknown>:0 
+Rethrow as TypeInitializationException: An exception was thrown by the type initializer for fixedSudoku
+
+ 
+(Filename:  Line: -1)
+
+The referenced script on this Behaviour (Game Object 'updateScript') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.599144 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1611.
+Total: 3.096742 ms (FindLiveObjects: 0.109653 ms CreateObjectMapping: 0.060159 ms MarkObjects: 1.460478 ms  DeleteObjects: 1.464744 ms)
+
+IsolatedStorageException: Could not find a part of the path "C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Mastermind\Scripts\Assets\Resources\levelsEasyXMLprefab.xml".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlUrlResolver.GetEntity (System.Uri absoluteUri, System.String role, System.Type ofObjectToReturn) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.GetStreamFromUrl (System.String url, System.String& absoluteUriString) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlDocument.Load (System.String filename) [0x00000] in <filename unknown>:0 
+  at ReadXML.parseXmlFile (System.String path, System.String nodepath) [0x00000] in <filename unknown>:0 
+  at fixedSudoku..cctor () [0x00000] in <filename unknown>:0 
+Rethrow as TypeInitializationException: An exception was thrown by the type initializer for fixedSudoku
+
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at update.updatePlayerInfo () [0x00000] in <filename unknown>:0 
+  at update.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.919570 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2948.
+Total: 2.669223 ms (FindLiveObjects: 0.227839 ms CreateObjectMapping: 0.081066 ms MarkObjects: 2.338130 ms  DeleteObjects: 0.020906 ms)
+
+IsolatedStorageException: Could not find a part of the path "C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Mastermind\Scripts\Assets\Resources\levelsEasyXMLprefab.xml".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlUrlResolver.GetEntity (System.Uri absoluteUri, System.String role, System.Type ofObjectToReturn) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.GetStreamFromUrl (System.String url, System.String& absoluteUriString) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlDocument.Load (System.String filename) [0x00000] in <filename unknown>:0 
+  at ReadXML.parseXmlFile (System.String path, System.String nodepath) [0x00000] in <filename unknown>:0 
+  at fixedSudoku..cctor () [0x00000] in <filename unknown>:0 
+Rethrow as TypeInitializationException: An exception was thrown by the type initializer for fixedSudoku
+
+ 
+(Filename:  Line: -1)
+
+IsolatedStorageException: Could not find a part of the path "C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Mastermind\Scripts\Assets\Resources\levelsEasyXMLprefab.xml".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlUrlResolver.GetEntity (System.Uri absoluteUri, System.String role, System.Type ofObjectToReturn) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.GetStreamFromUrl (System.String url, System.String& absoluteUriString) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlDocument.Load (System.String filename) [0x00000] in <filename unknown>:0 
+  at ReadXML.parseXmlFile (System.String path, System.String nodepath) [0x00000] in <filename unknown>:0 
+  at fixedSudoku..cctor () [0x00000] in <filename unknown>:0 
+Rethrow as TypeInitializationException: An exception was thrown by the type initializer for fixedSudoku
+
+ 
+(Filename:  Line: -1)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.783248 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1650.
+Total: 1.519784 ms (FindLiveObjects: 0.171093 ms CreateObjectMapping: 0.065706 ms MarkObjects: 1.258665 ms  DeleteObjects: 0.023039 ms)
+
+IsolatedStorageException: Could not find a part of the path "C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Mastermind\Scripts\Assets\Resources\levelsEasyXMLprefab.xml".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlUrlResolver.GetEntity (System.Uri absoluteUri, System.String role, System.Type ofObjectToReturn) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.GetStreamFromUrl (System.String url, System.String& absoluteUriString) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlDocument.Load (System.String filename) [0x00000] in <filename unknown>:0 
+  at ReadXML.parseXmlFile (System.String path, System.String nodepath) [0x00000] in <filename unknown>:0 
+  at fixedSudoku..cctor () [0x00000] in <filename unknown>:0 
+Rethrow as TypeInitializationException: An exception was thrown by the type initializer for fixedSudoku
+
+ 
+(Filename:  Line: -1)
+
+The referenced script on this Behaviour (Game Object 'updateScript') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.417811 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1611.
+Total: 2.603090 ms (FindLiveObjects: 0.099413 ms CreateObjectMapping: 0.054613 ms MarkObjects: 1.230505 ms  DeleteObjects: 1.216851 ms)
+
+IsolatedStorageException: Could not find a part of the path "C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Mastermind\Scripts\Assets\Resources\levelsEasyXMLprefab.xml".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlUrlResolver.GetEntity (System.Uri absoluteUri, System.String role, System.Type ofObjectToReturn) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.GetStreamFromUrl (System.String url, System.String& absoluteUriString) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlDocument.Load (System.String filename) [0x00000] in <filename unknown>:0 
+  at ReadXML.parseXmlFile (System.String path, System.String nodepath) [0x00000] in <filename unknown>:0 
+  at fixedSudoku..cctor () [0x00000] in <filename unknown>:0 
+Rethrow as TypeInitializationException: An exception was thrown by the type initializer for fixedSudoku
+
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at update.updatePlayerInfo () [0x00000] in <filename unknown>:0 
+  at update.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.777064 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2948.
+Total: 2.727249 ms (FindLiveObjects: 0.181759 ms CreateObjectMapping: 0.089173 ms MarkObjects: 2.434556 ms  DeleteObjects: 0.020906 ms)
+
+IsolatedStorageException: Could not find a part of the path "C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Mastermind\Scripts\Assets\Resources\levelsEasyXMLprefab.xml".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlUrlResolver.GetEntity (System.Uri absoluteUri, System.String role, System.Type ofObjectToReturn) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.GetStreamFromUrl (System.String url, System.String& absoluteUriString) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlDocument.Load (System.String filename) [0x00000] in <filename unknown>:0 
+  at ReadXML.parseXmlFile (System.String path, System.String nodepath) [0x00000] in <filename unknown>:0 
+  at fixedSudoku..cctor () [0x00000] in <filename unknown>:0 
+Rethrow as TypeInitializationException: An exception was thrown by the type initializer for fixedSudoku
+
+ 
+(Filename:  Line: -1)
+
+IsolatedStorageException: Could not find a part of the path "C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Mastermind\Scripts\Assets\Resources\levelsEasyXMLprefab.xml".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlUrlResolver.GetEntity (System.Uri absoluteUri, System.String role, System.Type ofObjectToReturn) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.GetStreamFromUrl (System.String url, System.String& absoluteUriString) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlDocument.Load (System.String filename) [0x00000] in <filename unknown>:0 
+  at ReadXML.parseXmlFile (System.String path, System.String nodepath) [0x00000] in <filename unknown>:0 
+  at fixedSudoku..cctor () [0x00000] in <filename unknown>:0 
+Rethrow as TypeInitializationException: An exception was thrown by the type initializer for fixedSudoku
+
+ 
+(Filename:  Line: -1)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.674021 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1650.
+Total: 1.486078 ms (FindLiveObjects: 0.217599 ms CreateObjectMapping: 0.049066 ms MarkObjects: 1.188691 ms  DeleteObjects: 0.028159 ms)
+
+IsolatedStorageException: Could not find a part of the path "C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Mastermind\Scripts\Assets\Resources\levelsEasyXMLprefab.xml".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlUrlResolver.GetEntity (System.Uri absoluteUri, System.String role, System.Type ofObjectToReturn) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.GetStreamFromUrl (System.String url, System.String& absoluteUriString) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlDocument.Load (System.String filename) [0x00000] in <filename unknown>:0 
+  at ReadXML.parseXmlFile (System.String path, System.String nodepath) [0x00000] in <filename unknown>:0 
+  at fixedSudoku..cctor () [0x00000] in <filename unknown>:0 
+Rethrow as TypeInitializationException: An exception was thrown by the type initializer for fixedSudoku
+
+ 
+(Filename:  Line: -1)
+
+The referenced script on this Behaviour (Game Object 'updateScript') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.561171 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1611.
+Total: 2.667943 ms (FindLiveObjects: 0.101546 ms CreateObjectMapping: 0.050773 ms MarkObjects: 1.297918 ms  DeleteObjects: 1.216851 ms)
+
+IsolatedStorageException: Could not find a part of the path "C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Mastermind\Scripts\Assets\Resources\levelsEasyXMLprefab.xml".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlUrlResolver.GetEntity (System.Uri absoluteUri, System.String role, System.Type ofObjectToReturn) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.GetStreamFromUrl (System.String url, System.String& absoluteUriString) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlDocument.Load (System.String filename) [0x00000] in <filename unknown>:0 
+  at ReadXML.parseXmlFile (System.String path, System.String nodepath) [0x00000] in <filename unknown>:0 
+  at fixedSudoku..cctor () [0x00000] in <filename unknown>:0 
+Rethrow as TypeInitializationException: An exception was thrown by the type initializer for fixedSudoku
+
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at update.updatePlayerInfo () [0x00000] in <filename unknown>:0 
+  at update.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.513490 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2948.
+Total: 2.894076 ms (FindLiveObjects: 0.219733 ms CreateObjectMapping: 0.092586 ms MarkObjects: 2.558290 ms  DeleteObjects: 0.023039 ms)
+
+IsolatedStorageException: Could not find a part of the path "C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Mastermind\Scripts\Assets\Resources\levelsEasyXMLprefab.xml".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlUrlResolver.GetEntity (System.Uri absoluteUri, System.String role, System.Type ofObjectToReturn) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.GetStreamFromUrl (System.String url, System.String& absoluteUriString) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlDocument.Load (System.String filename) [0x00000] in <filename unknown>:0 
+  at ReadXML.parseXmlFile (System.String path, System.String nodepath) [0x00000] in <filename unknown>:0 
+  at fixedSudoku..cctor () [0x00000] in <filename unknown>:0 
+Rethrow as TypeInitializationException: An exception was thrown by the type initializer for fixedSudoku
+
+ 
+(Filename:  Line: -1)
+
+IsolatedStorageException: Could not find a part of the path "C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Mastermind\Scripts\Assets\Resources\levelsEasyXMLprefab.xml".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlUrlResolver.GetEntity (System.Uri absoluteUri, System.String role, System.Type ofObjectToReturn) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.GetStreamFromUrl (System.String url, System.String& absoluteUriString) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlDocument.Load (System.String filename) [0x00000] in <filename unknown>:0 
+  at ReadXML.parseXmlFile (System.String path, System.String nodepath) [0x00000] in <filename unknown>:0 
+  at fixedSudoku..cctor () [0x00000] in <filename unknown>:0 
+Rethrow as TypeInitializationException: An exception was thrown by the type initializer for fixedSudoku
+
+ 
+(Filename:  Line: -1)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.607888 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1650.
+Total: 1.442984 ms (FindLiveObjects: 0.130986 ms CreateObjectMapping: 0.059733 ms MarkObjects: 1.230078 ms  DeleteObjects: 0.020479 ms)
+
+IsolatedStorageException: Could not find a part of the path "C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Mastermind\Scripts\Assets\Resources\levelsEasyXMLprefab.xml".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlUrlResolver.GetEntity (System.Uri absoluteUri, System.String role, System.Type ofObjectToReturn) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.GetStreamFromUrl (System.String url, System.String& absoluteUriString) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlDocument.Load (System.String filename) [0x00000] in <filename unknown>:0 
+  at ReadXML.parseXmlFile (System.String path, System.String nodepath) [0x00000] in <filename unknown>:0 
+  at fixedSudoku..cctor () [0x00000] in <filename unknown>:0 
+Rethrow as TypeInitializationException: An exception was thrown by the type initializer for fixedSudoku
+
+ 
+(Filename:  Line: -1)
+
+The referenced script on this Behaviour (Game Object 'updateScript') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.554344 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1611.
+Total: 2.850556 ms (FindLiveObjects: 0.098559 ms CreateObjectMapping: 0.051199 ms MarkObjects: 1.212585 ms  DeleteObjects: 1.487358 ms)
+
+IsolatedStorageException: Could not find a part of the path "C:\Users\lok02\Desktop\Senior game\v5\Gamification(1)_Data\Mastermind\Scripts\Assets\Resources\levelsEasyXMLprefab.xml".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlUrlResolver.GetEntity (System.Uri absoluteUri, System.String role, System.Type ofObjectToReturn) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.GetStreamFromUrl (System.String url, System.String& absoluteUriString) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlTextReader..ctor (System.String url, System.Xml.XmlNameTable nt) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlDocument.Load (System.String filename) [0x00000] in <filename unknown>:0 
+  at ReadXML.parseXmlFile (System.String path, System.String nodepath) [0x00000] in <filename unknown>:0 
+  at fixedSudoku..cctor () [0x00000] in <filename unknown>:0 
+Rethrow as TypeInitializationException: An exception was thrown by the type initializer for fixedSudoku
+
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at update.updatePlayerInfo () [0x00000] in <filename unknown>:0 
+  at update.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Saving from closing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Seeker Saving
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Saving quest progress: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+In dungeon: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Seeker Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 914 -> priority: 1 
+  Thread -> id: 2448 -> priority: 1 

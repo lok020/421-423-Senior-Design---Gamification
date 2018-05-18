@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Mastermind/Scene/Mastermind_Menu.unity
+  isLoaded: 1
+  isActive: 1

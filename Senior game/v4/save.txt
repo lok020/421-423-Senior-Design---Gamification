@@ -1,0 +1,12 @@
+Player
+hp 60
+damage .3
+skill 0
+equip 5
+gun1 1 150 0
+gun6 2 115 2
+gun6 2 115 2
+gun6 2 115 2
+gun6 2 115 2
+gun2 1 267 2
+gun0 1 248 2

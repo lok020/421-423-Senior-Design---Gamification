@@ -1,0 +1,194 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     1118 MB
+    Driver:   21.20.16.4550
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\lok02\Desktop\Senior game\v3\Gamification_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\lok02\Desktop\Senior game\v3\Gamification_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\lok02\Desktop\Senior game\v3\Gamification_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\lok02\Desktop\Senior game\v3\Gamification_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\lok02\Desktop\Senior game\v3\Gamification_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\lok02\Desktop\Senior game\v3\Gamification_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\lok02\Desktop\Senior game\v3\Gamification_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\lok02\Desktop\Senior game\v3\Gamification_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\lok02\Desktop\Senior game\v3\Gamification_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading C:\Users\lok02\Desktop\Senior game\v3\Gamification_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+Platform assembly: C:\Users\lok02\Desktop\Senior game\v3\Gamification_Data\Managed\websocket-sharp.dll (this message is harmless)
+Loading C:\Users\lok02\Desktop\Senior game\v3\Gamification_Data\Managed\websocket-sharp.dll into Unity Child Domain
+- Completed reload, in  0.255 seconds
+Platform assembly: C:\Users\lok02\Desktop\Senior game\v3\Gamification_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\lok02\Desktop\Senior game\v3\Gamification_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\lok02\Desktop\Senior game\v3\Gamification_Data\Managed\System.Xml.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.885544 ms
+In awake.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Seeker Loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Quest Progress: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Seeker Loaded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.0040132
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'updateScript') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 111.411102 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1411.
+Total: 8.984738 ms (FindLiveObjects: 0.104533 ms CreateObjectMapping: 0.075093 ms MarkObjects: 8.779940 ms  DeleteObjects: 0.023893 ms)
+
+none
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+mastermind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'updateScript') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.365970 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1453.
+Total: 1.356372 ms (FindLiveObjects: 0.119039 ms CreateObjectMapping: 0.060586 ms MarkObjects: 1.158399 ms  DeleteObjects: 0.017493 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ChangeScene.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+The referenced script on this Behaviour (Game Object 'updateScript') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.744638 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1460.
+Total: 2.410237 ms (FindLiveObjects: 0.123733 ms CreateObjectMapping: 0.067413 ms MarkObjects: 0.971092 ms  DeleteObjects: 1.246718 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ChangeScene.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+The referenced script on this Behaviour (Game Object 'updateScript') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.282238 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2739.
+Total: 2.600104 ms (FindLiveObjects: 0.181759 ms CreateObjectMapping: 0.094293 ms MarkObjects: 2.313384 ms  DeleteObjects: 0.009813 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ChangeScene.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+22.5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at update.sendMsg (System.String msg) [0x00000] in <filename unknown>:0 
+  at update.updateProgressBar () [0x00000] in <filename unknown>:0 
+  at update.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+The referenced script on this Behaviour (Game Object 'updateScript') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.932689 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1418.
+Total: 1.318398 ms (FindLiveObjects: 0.176639 ms CreateObjectMapping: 0.064426 ms MarkObjects: 1.056852 ms  DeleteObjects: 0.018346 ms)
+
+Saving from closing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Seeker Saving
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Saving quest progress: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+In dungeon: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Seeker Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2634 -> priority: 1 
+  Thread -> id: 1038 -> priority: 1 

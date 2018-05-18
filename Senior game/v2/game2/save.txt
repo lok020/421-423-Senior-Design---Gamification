@@ -1,0 +1,6 @@
+Player
+hp 15
+damage 1
+skill 2
+equip 0
+gun1 1 150 0

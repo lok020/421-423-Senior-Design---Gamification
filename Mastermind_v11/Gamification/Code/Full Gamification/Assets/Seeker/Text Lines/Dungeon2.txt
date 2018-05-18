@@ -1,0 +1,18 @@
+You: I can't leave yet. I haven't found any food.
+
+You: Wow. The dungeon is actually different.
+You: The tunnel used to be directly in front of the entrance but now it's on the left.
+You: Alright. Let's review the three types of traps.
+You: Pitfall traps come very suddenly and can make me lose my ground easily. This makes it the hardest to dodge. They also hide themselves again after leaving them.
+You: Spike traps are very intricate traps that are hard to disable without setting them off again.
+You: Crusher traps are extremely deadly if it hits you. They're pretty risky to disarm but it is very beneficial to get rid of them when possible.
+You: Traps will reset if I don't disable them before crossing so I should probably disable them so I don't have to deal with them again later.
+You: Alright. That's enough with the monologue. Let's do this!
+
+You: "Whoa!"
+You barely dodge another pitfall trap.
+You: "That was close. Could've broken an ankle there."
+You: Good thing these are easy to close up.
+*
+2
+You: "Done!"

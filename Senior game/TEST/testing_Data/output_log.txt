@@ -1,0 +1,64 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     1118 MB
+    Driver:   21.20.16.4550
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\lok02\Desktop\Senior game\TEST\testing_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\lok02\Desktop\Senior game\TEST\testing_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\lok02\Desktop\Senior game\TEST\testing_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\lok02\Desktop\Senior game\TEST\testing_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\lok02\Desktop\Senior game\TEST\testing_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\lok02\Desktop\Senior game\TEST\testing_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\lok02\Desktop\Senior game\TEST\testing_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\lok02\Desktop\Senior game\TEST\testing_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\lok02\Desktop\Senior game\TEST\testing_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\lok02\Desktop\Senior game\TEST\testing_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\lok02\Desktop\Senior game\TEST\testing_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading C:\Users\lok02\Desktop\Senior game\TEST\testing_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+Platform assembly: C:\Users\lok02\Desktop\Senior game\TEST\testing_Data\Managed\websocket-sharp.dll (this message is harmless)
+Loading C:\Users\lok02\Desktop\Senior game\TEST\testing_Data\Managed\websocket-sharp.dll into Unity Child Domain
+Platform assembly: C:\Users\lok02\Desktop\Senior game\TEST\testing_Data\Managed\Newtonsoft.Json.dll (this message is harmless)
+Loading C:\Users\lok02\Desktop\Senior game\TEST\testing_Data\Managed\Newtonsoft.Json.dll into Unity Child Domain
+- Completed reload, in  0.043 seconds
+Platform assembly: C:\Users\lok02\Desktop\Senior game\TEST\testing_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\lok02\Desktop\Senior game\TEST\testing_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 3286x1080 at -1366,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.546554 ms
+NullReferenceException: Object reference not set to an instance of an object
+  at loginScript.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+GlobalControl Start.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GlobalControl.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Saving from closing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Seeker Saving
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GlobalControl.SaveInfo () [0x00000] in <filename unknown>:0 
+  at GlobalControl.OnApplicationQuit () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 13c0 -> priority: 1 
