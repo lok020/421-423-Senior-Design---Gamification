@@ -1,0 +1,140 @@
+You: *Yawn*
+You: I guess yesterday wasn't some elaborate dream.
+You: Ugh. I forgot to eat yesterday.
+You: What time is it?
+You: I guess I'll go to the market to see if anyone else is awake.
+
+You walk on over to the chef.
+You notice the chef hat they're wearing. Looks too small for their head.
+You: "Good morning uhh... chef."
+Chef: "Hello. You're up pretty early."
+You: "Am I? What time is it?"
+Chef: "Well it's morning of course."
+You: I don't know what I expected.
+Your eyes keep wandering toward the hat.
+Your stomach growls.
+Chef: "Ahh. Are you hungry?"
+You: "Yeah. I haven't eaten all day yesterday."
+Chef: "That's unfortunate. We have some food but it'll take a while. It also isn't much."
+You: "Oh dear. Is there a place we can pick food from? Like a farm?"
+Chef: "The farmlands were mostly destroyed during the invasion. The food we currently we have can't be replanted to grow more food either. The preservation method we used completely halts any chance of growth."
+You: "So what are we going to do for food?"
+Chef: "We stand here."
+You: "What?"
+Chef: "We stand in the sun. That's how we gather energy."
+You: What. Are they plants?
+You have an urge to straigthen out the hat.
+You: "Uhh... Well I can't do that."
+Chef: "Oh that's a problem."
+You: "Yeah... Wait why did you have food then if you don't need to eat?"
+Chef: "It's for the animals we used to have. Also we do have the ability to consume food but it's more of a luxury thing."
+You: "Well this isn't good. What am I going to eat?"
+Chef: "This problem was actually taken care of due to the arch mage's great foresight. Well I assume the mage was more worried about feeding our livestocks. Though we don't have any right now."
+Chef: "The arch mage placed a system in the dungeons which will create chests with necessities such as ores and food."
+You: "Wow. That's very convenient and inconvenient at the same time."
+You wonder if the hat might fall off soon.
+You: "But how come I didn't see any chests in the dungeon I found you guys?"
+Chef: "It seems that the spell casted upon the dungeons malfunctioned in parts."
+You: "Oh so spells can glitch as well?"
+Chef: "I'm not sure I understand your words. But if you mean that spells are able to have errors in them, then yes."
+Chef: "It's not uncommon for large spells to have multiple problems occur. It's amazing that the arch mage was able to cast such a grand spell with such precision."
+Chef: "Anyway. If you want to get food, you'll have to go into the dungeons again to search for some."
+You: "But I've already searched the dungeon. Are there more nearby?"
+Chef: "Technically there are lots. The dungeon entrance in the forest connects to random dungeons upon enetering."
+Chef: "It was also by no accident you found us first. The arch wizard prioritized our release before the others due to our specialties."
+Chef: "We are able to sustain the rest of the villagers upon their retrieval."
+There's a slight breeze. But the hat does not falter.
+You: "I see. Also it seemed that one of you were very adept at disarming the traps in the dungeons."
+Chef: "Yes. The carpenter has a very strong knowledge of the traps and how they work due to his life long skill of construction."
+You: "I see. Well can I bring the carpenter with me to disarm the traps then?"
+Chef: "Well the problem is that the wizard's gem only grants access to the wielder."
+You: "Wow. How very inconvenient. Well can the carpenter go alone instead then?"
+Chef: "Well. The issue is that though we are very knowledgable, we have a lack in stamina. The carpenter disarming the trap last night wore him down quite a lot."
+Chef: "We usually have our animals do a lot of the work for us. But now that we have none, we're going to have a hard time surviving."
+You: This is a joke right? I'm being messed with right? I mean... I guess I can see it with thier lanky body structure. But still...
+You: How do they even build a village like this? Did they just hire a bunch of animals? Whatever I'm too tired to think.
+You: "Alright. I guess I'll go then or else we'll all starve to death."
+Chef: "Well it'd just be you. But you should go to the carpentry building over their. The carpenter can teach you how to disable the traps."
+You: "That's a good idea. I'll go visit them then."
+You begrudgingly turn away from the hat.
+
+You knock on the door.
+Carpenter: "Who is it?"
+You: "It's me. The uh... Rescuer."
+You: That's a lot more embarassing to say out loud now that I did it...
+Carpenter: "Ahh. Come in."
+You hear the door unlock and the door opens up.
+
+As you enter the building you set off a trap.
+You: "Whoa!!"
+You barely dodged the trap that would've impaled your foot.
+Carpenter: "Oh sorry. I was still setting up and forgot that was there.
+You: I'd think that most people would be more careful about stuff like this...
+You: "What are you doing with these traps all around?"
+Carpenter: "Well I expected that you'd come see me to learn how to disable traps."
+Carpenter: "So of course, what better way than to create some for you to test "
+You: "There's so many..."
+You: What happened to that low stamina stuff...
+Carpenter: "Well of course. We have to have varying difficulties."
+You: "The traps have varying difficulties?"
+Carpenter: "Yes. You see, the dungeons are able to adjust their security depending on what the intruder is looking for."
+Carpenter: "Low level security dungeons will mainly procure common foods that can easily be grown but provide very little nutrients and common ores."
+Carpenter: "Higher level secruity dungeons will procure rare ores and even gems as well as villagers."
+You: "The dungeon I found you people in didn't seem very secure though."
+Carpenter: "That was at the request of the leader."
+Carpenter: "Our leader didn't want anyone to have trouble freeing us but the arch mage insisted on some security."
+Carpenter: "The rest of us didn't mind having lower security if it meant causing less trouble for those who are coming here to help."
+Carpenter: "Anyway that's enough chit chat. Let's start training."
+You: "Alright. Let's do this!"
+*
+3.5
+Carpenter: "That's enough. We're done with the minimal basics."
+You: Ugh... That training took a toll on me... How do they expect me to understand all that in such short time?
+You: "So should I go to the dungeons now?"
+Carpenter: "You should go see the Leader first. The Leader will help you out with that."
+You: "Alright. Where is the Leader?"
+Carpenter: "Up north at the castle."
+You: Wow. Sounds more like a king than a leader.
+You: "Alright. Thanks."
+
+You: "Good morning Leader."
+Leader: "Oh good morning Rescuer. What brings you here this bountiful morning?"
+You: "Well. You see. I have to actually consume food to live."
+Leader: "Ohh that makes sense. You're like an animal."
+You feel slightly insulted.
+You: I suppose we are very different species.
+You: "Yeah. I'm planning on going to the dungeons in hopes of finding food. The carpenter told me to come here first though."
+Leader: "I see. Well then you are going to need this."
+The leader hands you a large backpack.
+Leader: "This backpack will be able to hold anything without weighing you down. We use these enchanted backpacks all the time due to our lack of physical strength."
+You: "Very convenient. Thank you!"
+Leader: "This backpack will also instantly teleport you back here in case you take a fatal wound. However it isn't strong enough to teleport anything inside it."
+Leader: "Thus anything you find will be lost."
+You: "Well that's good. I'm starting to feel like I didn't actually need all that training earlier though."
+You notice something in the bag.
+You: "Hey what's this?"
+Leader: "Oh right that was in there when I found it by my bed last night. I believe the arch mage left it there but it's in a language I can't read."
+You look at the title and to your surprise you can read it perfectly.
+You: "This is in my language!"
+Leader: "Really? What is it about?"
+You: "It reads 'A Book of Guidance and Knowledge'"
+Leader: "Sounds very useful. You should read it before you go."
+Leader: "Also here's a map I found by my bed last night. I guess the arch mage left it there as well."
+Leader: "The map shows different dungeon entrances."
+You: "Oh I didn't know there were multiple entrances."
+Leader: "Yes. Each one varies in difficulty. The ones farther away have more difficult traps protecting them but they will provide much rarer items."
+You: I'm starting to think that the arch mage was a gamer from another world.
+Leader: "One last thing. Our village operates on a reputation based system."
+Leader: "We do not have any sort of physical currency but instead use a sort of acknowledgement for trade."
+Leader: "You can earn reputation by giving us items you find in the dungeons or by rescuing our people."
+Leader: "In turn, you can also use this reputation as work for us. By using reputation, we don't have to worry about theft!"
+You: "Alright. Thank you for the run down."
+Leader: "Be well. Oh and I have a request for you."
+You: "What is it?"
+Leader: "There's a special dungeon right outside of the village. Take this key to unlock it. Inside the dungeon you should find seeds which we can use to grow crops with."
+Leader: "If I remember correctly, the dungeon can accept multiple keys. Each key unlocks a certain dungeon set. This one is already labled 'Agriculture' so it should have seeds in it."
+You: "Got it. I'll go there when I can."
+Leader: "These dungeons shouldn't have any traps set in them but it is set as a maze. The seeds may have also grown down there. Be careful of them. They may have grown into dangerous plants."
+You: "I'll keep that in mind."
+Leader: "Good luck."
+The leader goes back to sun basking.

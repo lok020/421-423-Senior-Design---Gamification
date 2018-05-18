@@ -1,0 +1,44 @@
+Base path: D:/Unity/Editor/Data
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=2036 outsize=644 ok=1
+Cmd: preprocess
+  insize=2739 outsize=775 ok=1
+Cmd: preprocess
+  insize=2660 outsize=989 ok=1
+Cmd: preprocess
+  insize=2220 outsize=702 ok=1
+Cmd: preprocess
+  insize=1536 outsize=1683 ok=1
+Cmd: preprocess
+  insize=2398 outsize=778 ok=1
+Cmd: preprocess
+  insize=1721 outsize=1677 ok=1
+Cmd: preprocess
+  error: 2 plat 19 at (33): Can't find include file Tiled2Unity.cginc
+  insize=1969 outsize=711 ok=0
+Cmd: preprocess
+  error: 2 plat 19 at (35): Can't find include file Tiled2Unity.cginc
+  insize=1539 outsize=602 ok=0
+Cmd: preprocess
+  error: 2 plat 19 at (34): Can't find include file Tiled2Unity.cginc
+  insize=2492 outsize=784 ok=0
+Cmd: preprocess
+  error: 2 plat 19 at (35): Can't find include file Tiled2Unity.cginc
+  insize=1810 outsize=650 ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at (33): failed to open source file: 'Tiled2Unity.cginc'\nCompiling Vertex program with DUMMY
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA
+  api=4 type=0 insize=1562 outsize=0 kw=DUMMY pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at (33): failed to open source file: 'Tiled2Unity.cginc'\nCompiling Fragment program with DUMMY
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA
+  api=4 type=1 insize=1562 outsize=0 kw=DUMMY pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at (35): failed to open source file: 'Tiled2Unity.cginc'\nCompiling Vertex program with PIXELSNAP_ON
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA
+  api=4 type=0 insize=1241 outsize=0 kw=PIXELSNAP_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at (35): failed to open source file: 'Tiled2Unity.cginc'\nCompiling Fragment program with PIXELSNAP_ON
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA
+  api=4 type=1 insize=1241 outsize=0 kw=PIXELSNAP_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA ok=0

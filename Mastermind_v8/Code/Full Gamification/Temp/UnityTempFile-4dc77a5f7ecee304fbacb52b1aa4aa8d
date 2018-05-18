@@ -1,0 +1,230 @@
+-debug
+-target:library
+-nowarn:0169
+-langversion:4
+-out:Temp/Assembly-CSharp.dll
+-r:D:/Unity/Editor/Data/Managed/UnityEngine.dll
+-r:D:/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+-r:D:/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+-r:D:/Unity/Editor/Data/UnityExtensions/Unity/PlaymodeTestsRunner/UnityEngine.PlaymodeTestsRunner.dll
+-r:D:/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll
+-r:D:/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
+-r:D:/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll
+-r:Assets/Scripts/Plugins/ICSharpCode.SharpZipLib.dll
+-r:Assets/Scripts/Plugins/websocket-sharp.dll
+-r:D:/Unity/Editor/Data/Managed/UnityEditor.dll
+-define:UNITY_5_3_OR_NEWER
+-define:UNITY_5_4_OR_NEWER
+-define:UNITY_5_5_OR_NEWER
+-define:UNITY_5_5_2
+-define:UNITY_5_5
+-define:UNITY_5
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_DUCK_TYPING
+-define:ENABLE_GENERICS
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_PHYSICS
+-define:ENABLE_SPRITERENDERER_FLIPPING
+-define:ENABLE_SPRITES
+-define:ENABLE_TERRAIN
+-define:ENABLE_RAKNET
+-define:ENABLE_UNET
+-define:ENABLE_LZMA
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_WEBCAM
+-define:ENABLE_WWW
+-define:ENABLE_CLOUD_SERVICES_COLLAB
+-define:ENABLE_CLOUD_SERVICES_ADS
+-define:ENABLE_CLOUD_HUB
+-define:ENABLE_CLOUD_PROJECT_ID
+-define:ENABLE_CLOUD_SERVICES_UNET
+-define:ENABLE_CLOUD_SERVICES_BUILD
+-define:ENABLE_CLOUD_LICENSE
+-define:ENABLE_EDITOR_METRICS
+-define:ENABLE_EDITOR_METRICS_CACHING
+-define:INCLUDE_DYNAMIC_GI
+-define:INCLUDE_GI
+-define:PLATFORM_SUPPORTS_MONO
+-define:RENDER_SOFTWARE_CURSOR
+-define:INCLUDE_PUBNUB
+-define:ENABLE_PLAYMODE_TESTS_RUNNER
+-define:ENABLE_SCRIPTING_NEW_CSHARP_COMPILER
+-define:UNITY_STANDALONE_WIN
+-define:UNITY_STANDALONE
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_MOVIES
+-define:ENABLE_NETWORK
+-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+-define:ENABLE_UNITYWEBREQUEST
+-define:ENABLE_CLOUD_SERVICES
+-define:ENABLE_CLOUD_SERVICES_ANALYTICS
+-define:ENABLE_CLOUD_SERVICES_PURCHASING
+-define:ENABLE_CLOUD_SERVICES_CRASH_REPORTING
+-define:ENABLE_EVENT_QUEUE
+-define:ENABLE_CLUSTERINPUT
+-define:ENABLE_VIDEO
+-define:ENABLE_VR
+-define:ENABLE_WEBSOCKET_HOST
+-define:ENABLE_MONO
+-define:ENABLE_PROFILER
+-define:DEBUG
+-define:TRACE
+-define:UNITY_ASSERTIONS
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_64
+-define:UNITY_EDITOR_WIN
+-define:UNITY_TEAM_LICENSE
+Assets/Conqueror/Scripts/ArenaScript.cs
+Assets/Conqueror/Scripts/BossDrop.cs
+Assets/Conqueror/Scripts/EnemyScript.cs
+Assets/Conqueror/Scripts/GunScript.cs
+Assets/Conqueror/Scripts/Log.cs
+Assets/Conqueror/Scripts/PlayerMovementScript.cs
+Assets/Conqueror/Scripts/StartButton.cs
+Assets/Conqueror/Scripts/bossScript.cs
+Assets/Conqueror/Scripts/bulletScript.cs
+Assets/Conqueror/Scripts/cameraScript.cs
+Assets/Conqueror/Scripts/scr.cs
+Assets/Incremental/scripts/IncrementalManager.cs
+Assets/Incremental/scripts/MySceneManager.cs
+Assets/Incremental/scripts/bonusCode.cs
+Assets/Incremental/scripts/booster.cs
+Assets/Incremental/scripts/buttonEvent.cs
+Assets/Incremental/scripts/incremental.cs
+Assets/Incremental/scripts/loginScript.cs
+Assets/Incremental/scripts/playerInfo.cs
+Assets/Incremental/scripts/titleManager.cs
+Assets/Incremental/scripts/tutorial.cs
+Assets/Incremental/scripts/update.cs
+Assets/Incremental/scripts/upgradeScript.cs
+Assets/Mastermind/Audio/audioController.cs
+Assets/Mastermind/Game/Arena/areaController.cs
+Assets/Mastermind/Game/Arena/arenaManager.cs
+Assets/Mastermind/Game/Arena/squareController.cs
+"Assets/Mastermind/Game/End Game Panel/EndGameController.cs"
+Assets/Mastermind/Game/Numpad/numpadButtonController.cs
+Assets/Mastermind/Game/Numpad/numpadController.cs
+Assets/Mastermind/Game/Other/checkButtonController.cs
+Assets/Mastermind/Game/gameManager.cs
+Assets/Mastermind/Scripts/Assets/Debug/AddLevel/DebugArenaLineController.cs
+Assets/Mastermind/Scripts/Assets/Debug/DebugAddingLevelsController.cs
+Assets/Mastermind/Scripts/Assets/Other/Level/Level.cs
+Assets/Mastermind/Scripts/Assets/Other/Level/LevelManager.cs
+Assets/Mastermind/Scripts/Assets/Other/Settings.cs
+Assets/Mastermind/Scripts/ChangeScene.cs
+Assets/Mastermind/Scripts/ExitGameController.cs
+Assets/Mastermind/Scripts/ImageButton.cs
+Assets/Mastermind/Scripts/MainController.cs
+Assets/Mastermind/Scripts/MainMenuManager.cs
+Assets/Mastermind/Scripts/MoveCounter.cs
+Assets/Mastermind/Scripts/Mute.cs
+Assets/Mastermind/Scripts/SelectLevelArenaController.cs
+Assets/Mastermind/Scripts/SelectLevelController.cs
+Assets/Mastermind/Scripts/SelectModeController.cs
+Assets/Mastermind/Scripts/SettingsController.cs
+Assets/Mastermind/Scripts/StatisticsController.cs
+Assets/Mastermind/Scripts/Test/NumPadController.cs
+Assets/Mastermind/Scripts/Test/SquareControl.cs
+Assets/Mastermind/Scripts/Test/SudokuControl.cs
+Assets/Scripts/ManagerScripts/MessageOverlayController.cs
+Assets/Scripts/Networking/NetworkManager.cs
+Assets/Scripts/Networking/Tuple.cs
+Assets/Scripts/Plugins/SimpleJSON.cs
+Assets/Seeker/Scripts/CameraControl.cs
+Assets/Seeker/Scripts/Change_Scene.cs
+Assets/Seeker/Scripts/ClickableObject.cs
+Assets/Seeker/Scripts/Collision_Load.cs
+Assets/Seeker/Scripts/DialogueInstances.cs
+Assets/Seeker/Scripts/DialogueManager.cs
+Assets/Seeker/Scripts/DisableSceneChange.cs
+"Assets/Seeker/Scripts/Dungeon Scripts/BoardCreator.cs"
+"Assets/Seeker/Scripts/Dungeon Scripts/Corridor.cs"
+"Assets/Seeker/Scripts/Dungeon Scripts/Dungeon2/SecondDungeon.cs"
+"Assets/Seeker/Scripts/Dungeon Scripts/Dungeon2/SecondDungeonPanel.cs"
+"Assets/Seeker/Scripts/Dungeon Scripts/Dungeon2/Vines.cs"
+"Assets/Seeker/Scripts/Dungeon Scripts/Dungeon3/CowManager.cs"
+"Assets/Seeker/Scripts/Dungeon Scripts/Dungeon3/ThirdDungeon.cs"
+"Assets/Seeker/Scripts/Dungeon Scripts/Dungeon3/ThirdDungeonPanel.cs"
+"Assets/Seeker/Scripts/Dungeon Scripts/Dungeon3/Vines2.cs"
+"Assets/Seeker/Scripts/Dungeon Scripts/DungeonSetting.cs"
+"Assets/Seeker/Scripts/Dungeon Scripts/Flash.cs"
+"Assets/Seeker/Scripts/Dungeon Scripts/Followers.cs"
+"Assets/Seeker/Scripts/Dungeon Scripts/Following.cs"
+"Assets/Seeker/Scripts/Dungeon Scripts/HealthUIManager.cs"
+"Assets/Seeker/Scripts/Dungeon Scripts/IgnoreCollision.cs"
+"Assets/Seeker/Scripts/Dungeon Scripts/IntRange.cs"
+"Assets/Seeker/Scripts/Dungeon Scripts/InventoryItems.cs"
+"Assets/Seeker/Scripts/Dungeon Scripts/InventoryManager.cs"
+"Assets/Seeker/Scripts/Dungeon Scripts/ItemManager.cs"
+"Assets/Seeker/Scripts/Dungeon Scripts/Items.cs"
+"Assets/Seeker/Scripts/Dungeon Scripts/PanelChoice.cs"
+"Assets/Seeker/Scripts/Dungeon Scripts/PeopleManager.cs"
+"Assets/Seeker/Scripts/Dungeon Scripts/Pickup.cs"
+"Assets/Seeker/Scripts/Dungeon Scripts/PlayerStats.cs"
+"Assets/Seeker/Scripts/Dungeon Scripts/Room.cs"
+"Assets/Seeker/Scripts/Dungeon Scripts/ShowPanel.cs"
+"Assets/Seeker/Scripts/Dungeon Scripts/TextInfo.cs"
+"Assets/Seeker/Scripts/Dungeon Scripts/TrapManager.cs"
+"Assets/Seeker/Scripts/Dungeon Scripts/TreasureManager.cs"
+Assets/Seeker/Scripts/EnableDisable.cs
+Assets/Seeker/Scripts/Fading.cs
+Assets/Seeker/Scripts/ForceMovement.cs
+Assets/Seeker/Scripts/GameInfo.cs
+Assets/Seeker/Scripts/ItemEncyclopedia.cs
+Assets/Seeker/Scripts/Jiggle.cs
+Assets/Seeker/Scripts/LoadAct.cs
+Assets/Seeker/Scripts/MainQuestManager.cs
+Assets/Seeker/Scripts/PlayerMovement.cs
+Assets/Seeker/Scripts/QuestManager.cs
+Assets/Seeker/Scripts/Quests.cs
+Assets/Seeker/Scripts/SaveLoad/GlobalControl.cs
+Assets/Seeker/Scripts/SaveLoad/Load.cs
+Assets/Seeker/Scripts/SaveLoad/PlayerPrefsx.cs
+Assets/Seeker/Scripts/SaveLoad/Save.cs
+Assets/Seeker/Scripts/SaveLoad/ShowInfo.cs
+Assets/Seeker/Scripts/Scroll.cs
+Assets/Seeker/Scripts/ShowDescription.cs
+Assets/Seeker/Scripts/StatsPanel.cs
+"Assets/Seeker/Scripts/Town Scripts/Dungeon_Set.cs"
+"Assets/Seeker/Scripts/Town Scripts/ItemClass.cs"
+"Assets/Seeker/Scripts/Town Scripts/ItemDescription.cs"
+"Assets/Seeker/Scripts/Town Scripts/PlayerInventory.cs"
+"Assets/Seeker/Scripts/Town Scripts/PlayerInventoryManager.cs"
+"Assets/Seeker/Scripts/Town Scripts/PopulationSlider.cs"
+"Assets/Seeker/Scripts/Town Scripts/QuestTab.cs"
+"Assets/Seeker/Scripts/Town Scripts/ShopItem.cs"
+"Assets/Seeker/Scripts/Town Scripts/ShopManager.cs"
+"Assets/Seeker/Scripts/Town Scripts/StorageManager.cs"
+"Assets/Seeker/Scripts/Town Scripts/ToQuestArea.cs"
+"Assets/Seeker/Scripts/Town Scripts/TownInventory.cs"
+"Assets/Seeker/Scripts/Town Scripts/TownUpgradesShow.cs"
+"Assets/Seeker/Scripts/Town Scripts/UpgradeShow.cs"
+Assets/Seeker/Tiled2Unity/Scripts/Runtime/CircleObject.cs
+Assets/Seeker/Tiled2Unity/Scripts/Runtime/ImportBehaviour.cs
+Assets/Seeker/Tiled2Unity/Scripts/Runtime/Layer.cs
+Assets/Seeker/Tiled2Unity/Scripts/Runtime/ObjectLayer.cs
+Assets/Seeker/Tiled2Unity/Scripts/Runtime/PolygonObject.cs
+Assets/Seeker/Tiled2Unity/Scripts/Runtime/PolylineObject.cs
+Assets/Seeker/Tiled2Unity/Scripts/Runtime/RectangleObject.cs
+Assets/Seeker/Tiled2Unity/Scripts/Runtime/SortingLayerExposed.cs
+Assets/Seeker/Tiled2Unity/Scripts/Runtime/SpriteDepthInMap.cs
+Assets/Seeker/Tiled2Unity/Scripts/Runtime/TileAnimator.cs
+Assets/Seeker/Tiled2Unity/Scripts/Runtime/TileLayer.cs
+Assets/Seeker/Tiled2Unity/Scripts/Runtime/TileObject.cs
+Assets/Seeker/Tiled2Unity/Scripts/Runtime/TiledInitialShaderProperties.cs
+Assets/Seeker/Tiled2Unity/Scripts/Runtime/TiledMap.cs
+Assets/Seeker/Tiled2Unity/Scripts/Runtime/TmxObject.cs
+Assets/Tiled2Unity/Scripts/Runtime/GPUInstancing.cs
+Assets/Tiled2Unity/Scripts/Runtime/GameObjectExtensions.cs
+Assets/Tiled2Unity/Scripts/Runtime/GroupLayer.cs
+Assets/Tiled2Unity/Scripts/Runtime/Log.cs
+-r:D:\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\System.Runtime.Serialization.dll
+-r:D:\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\System.Xml.Linq.dll
+-r:D:\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\UnityScript.dll
+-r:D:\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\UnityScript.Lang.dll
+-r:D:\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\Boo.Lang.dll
+-sdk:unity

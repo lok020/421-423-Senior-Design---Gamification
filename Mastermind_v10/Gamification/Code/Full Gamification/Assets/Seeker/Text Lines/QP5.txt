@@ -1,0 +1,3 @@
+Leader: "Have you found the seeds yet?"
+You: "Not yet."
+Leader: "The sooner the better."

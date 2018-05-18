@@ -1,0 +1,5 @@
+Leader: "Have you brought back the animals yet?"
+You: "Yes. I found 8 of them in the dungeon."
+Leader: "Fantastic! Now we can grow our crops without trouble."
+Leader: "I'll be sure to properly compensate you for your work."
+Leader: "For now we have nothing in need of your assistance with."
