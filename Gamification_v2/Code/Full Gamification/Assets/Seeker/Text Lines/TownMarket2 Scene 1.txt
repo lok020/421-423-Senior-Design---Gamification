@@ -1,0 +1,102 @@
+You: Man what an awkward walk back. I think they just kept talking about me.
+You: How are they even talking at all in the first place? I didn't see any mouths on them...
+You: They're still chatting. I don't know what to do. Should I just go back to the house? Oh man what if it's one of their houses? Then where will I sleep?
+One of the villagers goes to one of the buildings. The others gestures you to go as well.
+You: Uhh. Alright.
+The villager unlocks the door with a key they grabbed from under a pot.
+They gesture you to come in.
+
+As you enter, a flury of smells bombard your nose.
+You: "Oh god... Wait. It actually smells pretty nice in here."
+The villager goes behind the counter and starts pulling out vials.
+They go around shop pulling off leaves and roots from different plants and putting them into a bag.
+The villager then starts crushing the contents of the bag with a rolling pin and starts mixing things into vials.
+You: What is it doing? Is it making a drink? Some tea?
+The villager finishes what they were doing and hands you the vial.
+You: "Oh uh. Thanks."
+You take the vial from the villager and then take a whiff from it. There isn't much smell to the drink.
+As you are about to drink it the villager stops you frantically.
+You: "Huh what? Is there something I'm supposed to do before drinking it?"
+The villager does some hand gestures. It gestures pouring the liquid in your hand and rubbing it on yourself.
+You: "Ohh. I'm supposed to rub this on my neck and... behind my ear?"
+You: Alrighty then.
+You pour some of the liquid onto your hand, spilling some on the floor but the villager doesn't seem to mind.
+You rub the liquid on your neck. It's actually quite cold. Next you rub it behind your ears.
+By the time you're done, the vial is nearly empty.
+Villager: "Did it work?"
+You: "Ahh!"
+Villager: "Ahh!"
+Villager: "Don't yell so suddenly!"
+You: "Sorry! I was just... shocked. I can understand you now!"
+Villager: "Yes. The ointment I gave you allows communication between us and different species."
+You: "How very convenient."
+Villager: "Quite. It allows us to communicate with our animals."
+You: "Really. Speaking of animals, I haven't seen any around or even heard any for that matter."
+Villager: "That is because there are none around. It is a long story. But I am not the one who should tell it. That is our leader's job."
+Villager: "Let us head outside and meet with the others."
+
+As you head out, the other villagers cease their chatter as you both exit.
+You: "Uhh. Hello!"
+You: Dejavu..
+Villagers: "Hello."
+You: Their mouthless speech still frightens me.
+Village Leader: “I am the village leader. First I must thank you for freeing us from the crystals.”
+Village Leader: “We do not know how long it has been since we were trapped, but judging by the lack of wild growth in the village, it has not been too long.
+You: “Why were you all trapped in the crystals?”
+Village Leader: “We were there hiding.”
+Village Leader: “Have you noticed the lack of wildlife other than the trees and plants around?”
+You: “Yes I have.”
+Village Leader: “That is because they were all taken by the invaders.”
+Village Leader: “Before we went into hiding, these great metal ships came from the sky. They carried an army of metal monsters who took everything from us.”
+Village Leader: “They took our family, friends, and livestock. Everything that was living and breathing was taken aboard their ships.”
+Village Leader: “This village is the capital of the country. Our army was useless against the invaders. The only hope we had were the mages.”
+You: “You guys know how to use magic and spells?”
+Village Leader: “No. Only certain people with the ability to comprehend vast knowledge can become mages.”
+Village Leader: “However, even our mages were pushed to the brink of defeat.”
+Village Leader: “The arch mage was our only hope.”
+Village Leader: “The arch mage was able to learn of the invaders and create spells that could stop them.”
+Village Leader: “But the invaders evolved. They learned just as fast as the mages and soon it became a stalemate. The only exception was that it was one against a ceaseless army.”
+Village Leader: “By this time, most of the country’s people have been taken or came to the capital for shelter.”
+Village Leader: “The mages withdrew from the front lines and devised a plan to keep the rest of us safe.”
+Village Leader: “The arch mage proposed to me that we were to go into hiding and placed into stasis. They did not know if it would work but it was our last option for survival.”
+Village Leader: “Everyone agreed to this plan. We were then taken to caves in the forest that were previously not there.”
+Village Leader: “The mages constructed these caves with our future in mind. The dungeons would automatically create traps to deter other foreign invaders”
+You: “The traps seemed very… primitive for what mages seem to be capable of.”
+Village Leader: “Well the spell they casted to create these dungeons was a massive spell. They had to cut corners to finish it before the invaders found out.”
+You: “How come these invaders didn’t just go into the dungeons themselves?”
+Village Leader: “The arch mage created two spells to keep us hidden.”
+Village Leader: “One was a simple hiding spell that would keep the dungeons from being noticed unless the person knew about the caves in the first place.”
+Village Leader: “The other is a more complicated spell that I do not have a full understanding of. The way I understand it is that beings made of metal like the invaders would be forever trapped inside the dungeon in an endless loop until they died or were destroyed by the traps.”
+Village Leader: “The beings would then be transported outside after.”
+You: “That is quite the spell. So where are the mages now? Were they defeated?”
+Village Leader: “We are unsure of that. They were to free us when the threat was over but it seems that you were the one to free us instead.”
+Village Leader: “That stone you have is the arch mage’s. It seems to be able to free us from the crystals.”
+You: “Oh. I got this from a house over there.”
+You: I probably shouldn’t tell them I broke the arch mage’s staff…
+Village Leader: “That was probably the house which the arch mage lived in.”
+Village Leader: “Speaking of residence, from where did you come from? You are obviously not of this world.”
+You: “I come from a planet called Earth. I do not know how I got here. I fell asleep in a train when I suddenly woke up here.”
+Village Leader: “I should tell you now, we are not able to communicate words that have no meaning between each other.”
+You: “So you probably don’t know what a train is?”
+Village Leader: “We do not. Nor are we able to pronounce names. You may not have noticed but I never introduced myself by my name. It is because you will hear a slur of incomprehensible sounds.”
+Village Leader: “So what is it that you fell asleep in?”
+You: “It is a form of fast transportation of cargo and people.”
+Village Leader: “Like a wagon?”
+You: “Well… Like a very long, very fast wagon. Without any animal pulling it.”
+Village Leader: “I see. Sounds convenient.”
+Village Leader: “I also suppose I should introduce the rest of the villagers you have rescued today. Please stop me if you do not understand what I am saying.”
+You: “Alright.”
+Village Leader: “You have already met our herbalist, the one who created the ointment earlier.”
+Village Leader: “There is also the Carpenter, the Treasurer, the Chef, and the Blacksmith.”
+Village Leader: “If you do not mind, we will call you the rescuer. It seems appropriate.”
+You: “That’s fine with me. It sounds pretty cool.”
+Village Leader: “Very well. That will be all for tonight. We should all get some rest and continue our talk tomorrow.”
+Village Leader: “You may stay at the arch wizard’s house seeing as to how you’ve already been there.”
+You: “Okay that sounds good.”
+Village Leader: “See you tomorrow.”
+With that, everyone left. The herbalist went into their shop. You assume the others went to their own shop as well seeing as to how none of them actually went to the houses in the other part of town.
+The leader goes into the large castle like behind the market.
+You: Wow that was a lot to take in. I should head back as well. I didn’t realize how tired I actually was. 
+
+You: *Yawn*
+You: I guess I'll just make myself at home for now.

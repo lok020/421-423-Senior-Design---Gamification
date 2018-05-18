@@ -1,0 +1,4 @@
+sceneSetups:
+- path: E:/sungsu/Gamification Backup 2017-08-18/please/Gamification/Code/Full Gamification/Assets/Incremental/Scene/ui.unity
+  isLoaded: 1
+  isActive: 1
